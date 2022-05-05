@@ -2,8 +2,21 @@
 #include <limits.h>
 #include <stdbool.h>
 
-//https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/
+/*
+Description:
+Implement a last-in-first-out (LIFO) stack using only two queues. 
+The implemented stack should support all the functions of a normal stack (push, top, pop, and empty).
+*/
 
+
+
+/*
+References:
+https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/
+https://leetcode.com/problems/implement-stack-using-queues/discuss/1855829/week_9-Implement-Stack-using-Queues-C
+*/
+
+//implementing queues
 struct Queue {
     int front, rear, size;
     unsigned capacity; 
@@ -76,7 +89,7 @@ typedef struct {
 
 MyStack* myStackCreate() {
     MyStack *obj = (MyStack *)malloc(sizeof(MyStack));
-    obj->queue = createQueue(100);
+    obj->queue = createQueue(100); //creating a queue with size initialised to 100
     return obj;
 }
 
@@ -84,6 +97,10 @@ void myStackPush(MyStack* obj, int x) {
     if(isFull(obj->queue)){
         return;
     }
+    /*    
+    Enqueue element to the back of the queue
+    Then, shift all the elements in front of the newly inserted element to the back of the queue using dequeue+enqueue
+    */
     enqueue(obj->queue, x);
     for(int i = 1; i < obj->queue->size; i++){
         enqueue(obj->queue, dequeue(obj->queue));
@@ -95,6 +112,7 @@ int myStackPop(MyStack* obj) {
     if(isEmpty(obj->queue)){
         return;
     }
+    //since we've made newly inserted element first in queue during the push operation, simply dequeue to pop
     return dequeue(obj->queue);
 }
 
