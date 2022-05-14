@@ -1,5 +1,6 @@
 # Leetcode
 ## Solutions
+Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 
 | **#** | **Title** | **Solution** | **Difficulty** | **Topics** |
 |-------|-----------|--------------|----------------|------------|
