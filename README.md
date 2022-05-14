@@ -16,7 +16,9 @@
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](/SQL/Q595BigCountries.sql) | Easy | `Database` |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [SQL](/SQL/Q596ClassesMoreThan5Students.sql) | Easy | `Database` |
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [SQL](/SQL/Q607SalesPerson.sql) | Easy | `Database` |
-
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](/SQL/Q620NotBoringMovies.sql) | Easy | `Database` |
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [SQL](/SQL/Q627SwapSalary.sql) | Easy | `Database` | 
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](/SQL/Q1050ActorsDirectorsCooperations.sql) | Easy | `Database` |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [SQL](/SQL/Q1693LeadsAndPartners.sql) | Easy | `Database` | 
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](/SQL/Q1741TotalTime.md) | Easy | `Database` |
 
