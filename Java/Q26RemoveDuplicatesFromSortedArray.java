@@ -31,16 +31,16 @@ public class Q26RemoveDuplicatesFromSortedArray {
         System.out.println(test.removeDuplicates(new int[] {0, 0, 1, 1, 1, 2, 2, 3, 3, 4}));
     }
     public int removeDuplicates(int[] nums) {
-        int k = -1;
-        ArrayList<Integer> record = new ArrayList<>();
-        for(int i = 0; i < nums.length; i++){
-            if(!record.contains(nums[i])){
+        int k = 0;
+        for(int i = 1; i < nums.length; i++){
+            if(nums[i] > nums[k]){
                 k++;
                 nums[k] = nums[i];
-                record.add(nums[i]);
-                System.out.println(record);
             }
         }
         return k+1;
     }
 }
+
+//Runtime: 1 ms, faster than 98.16% of Java online submissions for Remove Duplicates from Sorted Array.
+//Memory Usage: 47.4 MB, less than 63.46% of Java online submissions for Remove Duplicates from Sorted Array.
