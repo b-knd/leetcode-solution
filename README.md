@@ -4,6 +4,8 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 
 | **#** | **Title** | **Solution** | **Difficulty** | **Topics** |
 |-------|-----------|--------------|----------------|------------|
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](C/Q26RemoveDuplicatesFromSortedArray.c), [Java](/Java/Q26RemoveDuplicatesFromSortedArray.java) | Easy | `Array` `Two Pointers` |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/submissions/) | [C](C/Q27RemoveElement.c), [Java](Java/Q27RemoveElement.java) | Easy | `Array` `Two Pointers` |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](/SQL/Q181EarnMoreThanManagers.sql) | Easy | `Database` |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](/SQL/Q182DuplicateEmails.sql) | Easy | `Database` |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](/SQL/Q183CustomersWhoNeverOrder.sql) | Easy | `Database` |
