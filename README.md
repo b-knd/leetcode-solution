@@ -1,3 +1,5 @@
+‼️ Please do not fork without permission! ‼️
+
 # Leetcode
 ## Solutions
 Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
