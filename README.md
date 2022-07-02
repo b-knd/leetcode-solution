@@ -6,17 +6,17 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 
 | **#** | **Title** | **Solution** | **Difficulty** | **Topics** |
 |-------|-----------|--------------|----------------|------------|
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](C/Q26RemoveDuplicatesFromSortedArray.c), [Java](/Java/Q26RemoveDuplicatesFromSortedArray.java) | Easy | `Array` `Two Pointers` |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/submissions/) | [C](C/Q27RemoveElement.c), [Java](Java/Q27RemoveElement.java) | Easy | `Array` `Two Pointers` |
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](Java/Q35SearchInsertPosition.java) | Easy | `Array` `Binary Search`|
-| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](Java/Q66PlusOne.java) | Easy | `Array` `Math` | 
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](C/Q26RemoveDuplicatesFromSortedArray.c), [Java](/Java/Q26RemoveDuplicatesFromSortedArray.java), [Javascript](/Javascript/Q26RemoveDuplicatesFromSortedArray.js) | Easy | `Array` `Two Pointers` |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/submissions/) | [C](C/Q27RemoveElement.c), [Java](Java/Q27RemoveElement.java), [Javascript[(Javascript/Q27RemoveElement.js) | Easy | `Array` `Two Pointers` |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](Java/Q35SearchInsertPosition.java), [Javascript](Javascript/Q35SearchInsertPosition.js) | Easy | `Array` `Binary Search`|
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](Java/Q66PlusOne.java), [Javascript](Javascript/Q66PlusOne.js) | Easy | `Array` `Math` | 
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](/SQL/Q181EarnMoreThanManagers.sql) | Easy | `Database` |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](/SQL/Q182DuplicateEmails.sql) | Easy | `Database` |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](/SQL/Q183CustomersWhoNeverOrder.sql) | Easy | `Database` |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](/SQL/Q184DepartmentHighestSalary.sql) | Easy | `Database` |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](/SQL/Q196DeleteDuplicateEmails.sql) | Easy | `Database` |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](/SQL/Q197RisingTemperature.sql) | Easy | `Database` |
-| 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java)|Easy|`Stack` `Queue` `Design`|
+| 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js) |Easy|`Stack` `Queue` `Design`|
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [SQL](/SQL/Q511GamePlayAnalysisI.sql) | Easy | `Database` |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](/SQL/Q584FindCustomerReferee.sql) | Easy | `Database` | 
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [SQL](/SQL/Q586CustomerWithLargestNumberofOrders.sql) | Easy | `Database` |
