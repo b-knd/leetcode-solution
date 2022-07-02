@@ -18,10 +18,6 @@ Explanation: Your function should return k = 2, with the first two elements of n
 It does not matter what you leave beyond the returned k (hence they are underscores).
 */
 
-/**
- * @param {number[]} nums
- * @return {number}
- */
 var removeDuplicates = function(nums) {
     let k = 0;
     for(let i = 1; i < nums.length; i++) {
