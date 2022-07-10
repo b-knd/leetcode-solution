@@ -12,7 +12,7 @@ The character '_' represents a blank space that can be occupied by any of the 'L
 Return true if it is possible to obtain the string target by moving the pieces of the string start any number of times. Otherwise, return false.
 */
 
-public class Q614MovePircestoObtainaString {
+public class Q614MovePiecestoObtainaString {
     public boolean canChange(String start, String target) {
         if(!start.replaceAll("[^LR]", "").equals(target.replaceAll("[^LR]", ""))){
             return false;
