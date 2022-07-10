@@ -29,7 +29,7 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [SQL](/SQL/Q1693LeadsAndPartners.sql) | Easy | `Database` | 
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](/SQL/Q1741TotalTime.md) | Easy | `Database` |
 | 6112 | [Minimum Amount of Time To Fill Cups](https://leetcode.com/contest/weekly-contest-301/problems/minimum-amount-of-time-to-fill-cups/) | [Java](/Java/Q6112MinimumAmountofTimeToFillCups.java) | Easy | `Weekly Contest 301` |
-| 6113 | [Smallest Number in Infinite Set](https://leetcode.com/contest/weekly-contest-301/problems/smallest-number-in-infinite-set/) | [Java](/Java/Q6113SmallestNumberinInfiniteSet.java) | Easy | 'Weekly Contest 301` |
+| 6113 | [Smallest Number in Infinite Set](https://leetcode.com/contest/weekly-contest-301/problems/smallest-number-in-infinite-set/) | [Java](/Java/Q6113SmallestNumberinInfiniteSet.java) | Easy | `Weekly Contest 301` |
 
 
 
