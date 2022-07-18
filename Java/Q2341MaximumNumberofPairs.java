@@ -11,7 +11,7 @@ Concept:
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class Q6120MaximumNumberofPairsinArray {
+public class Q2341MaximumNumberofPairsinArray {
 
     public int[] numberOfPairs(int[] nums) {
         HashMap<Integer, Integer> count = new HashMap<>();
