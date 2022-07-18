@@ -17,13 +17,11 @@ public class Q6121QueryKthSmallestTrimeedNumber {
     public int[] smallestTrimmedNumbers(String[] nums, int[][] queries) {
         int[] result = new int[queries.length];
         for(int i = 0; i < queries.length; i++){
-            Integer[] index = new Integer[queries[i].length];
-            for(int j = 0; j < queries[i].length; j++){
+            Integer[] index = new Integer[nums.length];
+            for(int j = 0; j < nums.length; j++){
                 index[j] = j;
             }
-            int k = nums[0].length() - queries[i][0];
-            
-            //sorting array by comparing substring
+            int k = nums[0].length() - queries[i][1];
             Arrays.sort(index, (x, y) -> nums[x].substring(k).compareTo(nums[y].substring(k)));
             result[i] = index[queries[i][0]-1];
         }
