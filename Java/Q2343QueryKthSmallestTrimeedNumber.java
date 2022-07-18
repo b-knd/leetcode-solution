@@ -12,7 +12,7 @@ Concept:
 
 import java.util.Arrays;
 
-public class Q6121QueryKthSmallestTrimeedNumber {
+public class Q2343QueryKthSmallestTrimeedNumber {
     
     public int[] smallestTrimmedNumbers(String[] nums, int[][] queries) {
         int[] result = new int[queries.length];
