@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Q6112MinimumAmountofTimeToFillCups {
+public class Q2335MinimumAmountofTimeToFillCups {
   
     /*
     Concept:
