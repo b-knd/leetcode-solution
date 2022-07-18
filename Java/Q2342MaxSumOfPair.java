@@ -14,7 +14,7 @@ Concept:
 
 import java.util.HashMap;
 
-class Q6164MaxSumOfPair {
+class Q2342MaxSumOfPair {
     public int maximumSum(int[] nums) {
 
         HashMap<Integer,Integer> hm = new HashMap<>();
