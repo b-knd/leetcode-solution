@@ -28,11 +28,12 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](/SQL/Q1050ActorsDirectorsCooperations.sql) | Easy | `Database` |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [SQL](/SQL/Q1693LeadsAndPartners.sql) | Easy | `Database` | 
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](/SQL/Q1741TotalTime.md) | Easy | `Database` |
-| 6112 | [Minimum Amount of Time To Fill Cups](https://leetcode.com/contest/weekly-contest-301/problems/minimum-amount-of-time-to-fill-cups/) | [Java](/Java/Q6112MinimumAmountofTimeToFillCups.java) | Easy | `Weekly Contest 301` |
-| 6113 | [Smallest Number in Infinite Set](https://leetcode.com/contest/weekly-contest-301/problems/smallest-number-in-infinite-set/) | [Java](/Java/Q6113SmallestNumberinInfiniteSet.java) | Easy | `Weekly Contest 301` |
-| 6114 | [Move Pieces to Obtain a String](https://leetcode.com/contest/weekly-contest-301/problems/move-pieces-to-obtain-a-string/) | [Java](Java/Q6114MovePiecestoObtainaString.java) | Medium | `Weekly Contest 301` |
-| 6120 | [Maximum Number of Pairs in Array](https://leetcode.com/contest/weekly-contest-302/problems/maximum-number-of-pairs-in-array/) | [Java](/Java/Q6120MaximumNumberofPairs.java) | Easy | `Weekly Contest 302` |
-| 6164 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/contest/weekly-contest-302/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [Java](/Java/Q6164MaxSumOfPair.java) | Medium | `Weekly Contest 302` | 
+| 2335 | [Minimum Amount of Time To Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [Java](/Java/Q2335MinimumAmountofTimeToFillCups.java) | Easy | `Weekly Contest 301` |
+| 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Java](/Java/Q2336SmallestNumberinInfiniteSet.java) | Easy | `Weekly Contest 301` |
+| 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Java](Java/Q2337MovePiecestoObtainaString.java) | Medium | `Weekly Contest 301` |
+| 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [Java](/Java/Q2341MaximumNumberofPairs.java) | Easy | `Weekly Contest 302` |
+| 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | [Java](/Java/QQ2343QueryKthSmallestTrimeedNumber.java) | Medium | `Weekly Contest 302` | 
+| 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [Java](/Java/Q2342MaxSumOfPair.java) | Medium | `Weekly Contest 302` | 
 
 
 
