@@ -32,8 +32,9 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Java](/Java/Q2336SmallestNumberinInfiniteSet.java) | Easy | `Weekly Contest 301` |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Java](Java/Q2337MovePiecestoObtainaString.java) | Medium | `Weekly Contest 301` |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [Java](/Java/Q2341MaximumNumberofPairs.java) | Easy | `Weekly Contest 302` |
-| 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | [Java](/Java/QQ2343QueryKthSmallestTrimeedNumber.java) | Medium | `Weekly Contest 302` | 
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [Java](/Java/Q2342MaxSumOfPair.java) | Medium | `Weekly Contest 302` | 
+| 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | [Java](/Java/QQ2343QueryKthSmallestTrimeedNumber.java) | Medium | `Weekly Contest 302` | 
+
 
 
 
