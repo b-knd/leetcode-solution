@@ -15,7 +15,7 @@ int popSmallest() Removes and returns the smallest integer contained in the infi
 void addBack(int num) Adds a positive integer num back into the infinite set, if it is not already in the infinite set.
 */
 
-public class Q6113SmallestNumberinInfiniteSet {
+public class Q2336SmallestNumberinInfiniteSet {
     static class SmallestInfiniteSet {
         //keep track of the current smallest element
         int smallest = 1;
