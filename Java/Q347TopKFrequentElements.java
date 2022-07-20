@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-class Solution {
+class Q347TopKFrequentElements {
     public int[] topKFrequent(int[] nums, int k) {
         //use hashmap to store frequency (key being the element itself and value are the frequencies)
         HashMap<Integer, Integer> hm = new HashMap<>();
