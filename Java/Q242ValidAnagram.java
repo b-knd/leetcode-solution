@@ -5,7 +5,7 @@
 import java.util.*;
 
 //Create two arrays for s and t, sort the array and compare the two strings formed using String.join()
-class Solution {
+class Q242ValidAnagram {
     public boolean isAnagram(String s, String t) {
         String[] s2 = s.split("");
         String[] t2 = t.split("");
