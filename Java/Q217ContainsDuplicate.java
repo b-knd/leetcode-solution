@@ -19,3 +19,6 @@ class Q217ContainsDuplicate {
         return false;
     }
 }
+
+//Runtime: 14 ms, faster than 52.64% of Java online submissions for Contains Duplicate.
+//Memory Usage: 70.2 MB, less than 39.25% of Java online submissions for Contains Duplicate.
