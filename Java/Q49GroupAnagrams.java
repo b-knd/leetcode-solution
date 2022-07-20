@@ -6,6 +6,8 @@ import java.util.*;
 
 class Q49GroupAnagrams {
     public List<List<String>> groupAnagrams(String[] strs) {
+        
+        //use hashmap to store each string based on their sorted form
         HashMap<String, List<String>> hm = new HashMap<>();
         for(String str: strs){
             String[] arr = str.split("");
