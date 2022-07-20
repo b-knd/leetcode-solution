@@ -6,6 +6,7 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 
 | **#** | **Title** | **Solution** | **Difficulty** | **Topics** |
 |-------|-----------|--------------|----------------|------------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/) | [Java](/Java/Q1TwoSum.java) | Easy | `Array` `Hash Table` |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](C/Q26RemoveDuplicatesFromSortedArray.c), [Java](/Java/Q26RemoveDuplicatesFromSortedArray.java), [Javascript](/Javascript/Q26RemoveDuplicatesFromSortedArray.js) | Easy | `Array` `Two Pointers` |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/submissions/) | [C](C/Q27RemoveElement.c), [Java](Java/Q27RemoveElement.java), [Javascript](Javascript/Q27RemoveElement.js) | Easy | `Array` `Two Pointers` |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](Java/Q35SearchInsertPosition.java), [Javascript](Javascript/Q35SearchInsertPosition.js) | Easy | `Array` `Binary Search`|
@@ -16,7 +17,9 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](/SQL/Q184DepartmentHighestSalary.sql) | Easy | `Database` |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](/SQL/Q196DeleteDuplicateEmails.sql) | Easy | `Database` |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](/SQL/Q197RisingTemperature.sql) | Easy | `Database` |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](/Java/Q217ContainsDuplicate.java) | Easy | `Array` `Hash Table` `Sorting` |
 | 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js) |Easy|`Stack` `Queue` `Design`|
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](/Java/Q242ValidAnagram.java) | Easy | `Hash Table` `String` `Sorting` | 
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [SQL](/SQL/Q511GamePlayAnalysisI.sql) | Easy | `Database` |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](/SQL/Q584FindCustomerReferee.sql) | Easy | `Database` | 
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [SQL](/SQL/Q586CustomerWithLargestNumberofOrders.sql) | Easy | `Database` |
