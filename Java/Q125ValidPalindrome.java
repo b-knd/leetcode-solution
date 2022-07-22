@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-class Solution {
+class Q125ValidPalindrome {
     //concept: two pointers
     public boolean isPalindrome(String s) {
         int start = 0;
