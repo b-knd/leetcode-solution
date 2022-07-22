@@ -35,6 +35,8 @@ class Solution {
 }
 
 //one for-loop: O(n) time complexity
+//sort: O(nlgn) time complexity
+//overal: O(nlogn) time complexity
 
 //Runtime: 18 ms, faster than 93.70% of Java online submissions for Longest Consecutive Sequence.
 //Memory Usage: 64.5 MB, less than 74.75% of Java online submissions for Longest Consecutive Sequence.
