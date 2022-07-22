@@ -13,6 +13,7 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](/Java/Q36ValidSudoku.java) | Medium | `Array` `Hash Table` `Matrix` |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](Java/Q49GroupAnagrams.java) | Medium | `Array` `Hash Table` `String` `Sorting` | 
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](Java/Q66PlusOne.java), [Javascript](Javascript/Q66PlusOne.js) | Easy | `Array` `Math` | 
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](/Java/Q125ValidPalindrome.java) | Medium | `Two Pointers` `String` |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/) | [Java](/Java/Q128LongestConsecutiveSequence.java) | Medium | `Array` `Hash Table` `Union Find` |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](/SQL/Q181EarnMoreThanManagers.sql) | Easy | `Database` |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](/SQL/Q182DuplicateEmails.sql) | Easy | `Database` |
