@@ -20,8 +20,8 @@ class Q167TwoSumII {
             }
             
             //if sum is smaller than target means left pointer need to be incremented to decrease sum
-            //if sum of midpoint and right pointer still smaller, we update left pointer with midpoint, otherwise incremented by 1 (taking leap if possibile)
-            //same goes to decrementing right pointer if sum is larger than target
+            //if sum of midpointer element and right pointer element still smaller, we update left pointer with midpoint, otherwise incremented by 1 (taking leap if possibile)
+            //same goes to decrementing right pointer if sum is larger
             if(x + y < target){
                 start = (numbers[mid] + y <= target ? mid: start+1);
             } else{
