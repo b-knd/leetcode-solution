@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-class Solution {
+class Q74Search2DMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {
         int row = -1;
         
