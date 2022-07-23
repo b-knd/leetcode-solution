@@ -35,6 +35,7 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [SQL](/SQL/Q607SalesPerson.sql) | Easy | `Database` |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](/SQL/Q620NotBoringMovies.sql) | Easy | `Database` |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [SQL](/SQL/Q627SwapSalary.sql) | Easy | `Database` | 
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](/Java/Q704BinarySearch.java) | Easy | `Array` `Binary Search` |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](/SQL/Q1050ActorsDirectorsCooperations.sql) | Easy | `Database` |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [SQL](/SQL/Q1693LeadsAndPartners.sql) | Easy | `Database` | 
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](/SQL/Q1741TotalTime.md) | Easy | `Database` |
