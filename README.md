@@ -15,6 +15,7 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](Java/Q66PlusOne.java), [Javascript](Javascript/Q66PlusOne.js) | Easy | `Array` `Math` | 
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](/Java/Q125ValidPalindrome.java) | Medium | `Two Pointers` `String` |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/) | [Java](/Java/Q128LongestConsecutiveSequence.java) | Medium | `Array` `Hash Table` `Union Find` |
+| 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](/Java/Q167TwoSumII.java) | Medium | `Array` `Two Pointers` `Binary Search` |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](/SQL/Q181EarnMoreThanManagers.sql) | Easy | `Database` |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](/SQL/Q182DuplicateEmails.sql) | Easy | `Database` |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](/SQL/Q183CustomersWhoNeverOrder.sql) | Easy | `Database` |
