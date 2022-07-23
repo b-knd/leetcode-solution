@@ -13,6 +13,7 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](/Java/Q36ValidSudoku.java) | Medium | `Array` `Hash Table` `Matrix` |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](Java/Q49GroupAnagrams.java) | Medium | `Array` `Hash Table` `String` `Sorting` | 
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](Java/Q66PlusOne.java), [Javascript](Javascript/Q66PlusOne.js) | Easy | `Array` `Math` | 
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/) | [Java](/Java/Q74Search2DMatrix.java) | Medium |  `Array` `Binary Search` `Matrix` | 
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](/Java/Q125ValidPalindrome.java) | Medium | `Two Pointers` `String` |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/) | [Java](/Java/Q128LongestConsecutiveSequence.java) | Medium | `Array` `Hash Table` `Union Find` |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](/Java/Q167TwoSumII.java) | Medium | `Array` `Two Pointers` `Binary Search` |
