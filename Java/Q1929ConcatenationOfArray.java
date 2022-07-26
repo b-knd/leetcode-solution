@@ -13,3 +13,6 @@ class Q1929ConcatenationOfArray {
         return res;
     }
 }
+
+//Runtime: 1 ms, faster than 98.83% of Java online submissions for Concatenation of Array.
+//Memory Usage: 42.9 MB, less than 89.43% of Java online submissions for Concatenation of Array.
