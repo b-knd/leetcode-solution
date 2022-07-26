@@ -2,7 +2,7 @@
 
 # Leetcode
 ## Solutions
-Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
+Some of my solutions and attempts for leetcode problems
 
 | **#** | **Title** | **Solution** | **Difficulty** | **Topics** |
 |-------|-----------|--------------|----------------|------------|
@@ -42,6 +42,7 @@ Some of my solutions and attempts for leetcode problems (mostly sql, java and c)
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [SQL](/SQL/Q1693LeadsAndPartners.sql) | Easy | `Database` | 
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](/SQL/Q1741TotalTime.md) | Easy | `Database` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/submissions/) | [Java](/Java/Q1920BuildArrayFromPermutation.java) | Easy | `Array` `Simulation` |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](/Java/Q1929ConcatenationOfArray.java) | Easy | `Array` |
 | 2335 | [Minimum Amount of Time To Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [Java](/WeeklyContest/Q2335MinimumAmountofTimeToFillCups.java) | Easy | `Weekly Contest 301` |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Java](/WeeklyContest/Q2336SmallestNumberinInfiniteSet.java) | Easy | `Weekly Contest 301` |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Java](WeeklyContest/Q2337MovePiecestoObtainaString.java) | Medium | `Weekly Contest 301` |
