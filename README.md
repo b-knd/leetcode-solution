@@ -39,6 +39,10 @@ Some of my solutions and attempts for leetcode problems
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [SQL](/SQL/Q627SwapSalary.sql) | Easy | `Database` | 
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](/Java/Q704BinarySearch.java) | Easy | `Array` `Binary Search` |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](/SQL/Q1050ActorsDirectorsCooperations.sql) | Easy | `Database` |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](/Java/Q1470ShuffleArray.java) | Easy | `Array` |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](/Java/Q1480RunningSum.java) | Easy | `Array` `Prefix Sum` | 
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](/Java/Q1512GoodPairs.java) | Easy | `Array` `Hash Table` `Math` `Counting` |
+| 1627 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/) | [Java](/Java/Q1672RichestCustomer.java) | Easy | `Array` `Matrix` |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [SQL](/SQL/Q1693LeadsAndPartners.sql) | Easy | `Database` | 
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](/SQL/Q1741TotalTime.md) | Easy | `Database` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/submissions/) | [Java](/Java/Q1920BuildArrayFromPermutation.java) | Easy | `Array` `Simulation` |
