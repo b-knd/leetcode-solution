@@ -9,8 +9,8 @@ select b.stock_name, (s.price - b.price) as capital_gain_loss from temp b, temp 
 where b.stock_name = s.stock_name AND
       b.operation = "Buy" AND
       s.operation = "Sell";
-//Runtime: 418 ms, faster than 95.12% of MySQL online submissions for Capital Gain/Loss.
-//Memory Usage: 0B, less than 100.00% of MySQL online submissions for Capital Gain/Loss. 
+/*Runtime: 418 ms, faster than 95.12% of MySQL online submissions for Capital Gain/Loss.
+  Memory Usage: 0B, less than 100.00% of MySQL online submissions for Capital Gain/Loss. */
       
 /*
 Description:
