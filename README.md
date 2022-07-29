@@ -10,6 +10,7 @@ Some of my solutions and attempts for leetcode problems
 | **#** | **Title** | **Solution** | **Difficulty** | **Topics** |
 |-------|-----------|--------------|----------------|------------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/) | [Java](/Java/Q1TwoSum.java) | Easy | `Array` `Hash Table` |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](/Java/Q2AddTwoNumbers.java) | Medium | `Linked List` `Math` `Recursion` |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](/Java/Q12IntegerToRoman.java) | Medium | `Hash Table` `Math` `String` |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](C/Q26RemoveDuplicatesFromSortedArray.c), [Java](/Java/Q26RemoveDuplicatesFromSortedArray.java), [Javascript](/Javascript/Q26RemoveDuplicatesFromSortedArray.js) | Easy | `Array` `Two Pointers` |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/submissions/) | [C](C/Q27RemoveElement.c), [Java](Java/Q27RemoveElement.java), [Javascript](Javascript/Q27RemoveElement.js) | Easy | `Array` `Two Pointers` |
@@ -46,6 +47,7 @@ Some of my solutions and attempts for leetcode problems
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](/SQL/Q1050ActorsDirectorsCooperations.sql) | Easy | `Database` |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Java](/Java/Q1313DecompressList.java) | Easy | `Array` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](/Java/Q1365SmallerThenCurrent.java) | Easy | `Array` `Hash Table` `Sorting` `Counting` |
+| 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [SQL](/SQL/Q1393CapitalGainLoss.sql) | Medium | `Database` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](/Java/Q1431GreatestNumOfCandies.java) | Easy | `Array` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](/Java/Q1470ShuffleArray.java) | Easy | `Array` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](/Java/Q1480RunningSum.java) | Easy | `Array` `Prefix Sum` | 
