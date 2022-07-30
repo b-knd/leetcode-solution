@@ -44,6 +44,7 @@ Some of my solutions and attempts for leetcode problems
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [SQL](/SQL/Q627SwapSalary.sql) | Easy | `Database` | 
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](/Java/Q704BinarySearch.java) | Easy | `Array` `Binary Search` |
 | 809 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [Java](/Java/Q809FindAndReplacePattern.java) | Medium | `Array` `Hash Table` `String` |
+| 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [Java](/Java/Q916WordSubsets.java) | Medium | `Array` `Hash Table` `String` |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](/SQL/Q1050ActorsDirectorsCooperations.sql) | Easy | `Database` |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Java](/Java/Q1313DecompressList.java) | Easy | `Array` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](/Java/Q1365SmallerThenCurrent.java) | Easy | `Array` `Hash Table` `Sorting` `Counting` |
@@ -57,6 +58,7 @@ Some of my solutions and attempts for leetcode problems
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](/SQL/Q1741TotalTime.md) | Easy | `Database` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/submissions/) | [Java](/Java/Q1920BuildArrayFromPermutation.java) | Easy | `Array` `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](/Java/Q1929ConcatenationOfArray.java) | Easy | `Array` |
+| 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Java](/Java/Q2215FindTheDifference.java) | Easy | `Array` `Hash Table` |
 | 2335 | [Minimum Amount of Time To Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [Java](/WeeklyContest/Q2335MinimumAmountofTimeToFillCups.java) | Easy | `Weekly Contest 301` |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Java](/WeeklyContest/Q2336SmallestNumberinInfiniteSet.java) | Easy | `Weekly Contest 301` |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Java](WeeklyContest/Q2337MovePiecestoObtainaString.java) | Medium | `Weekly Contest 301` |
