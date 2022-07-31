@@ -1,5 +1,9 @@
 /*
 @b-knd (jingru) on 31 July 2022 15:33:00
+
+Complexity analysis:
+- Time: O(N) where N is the total length of the two linked list
+- Space: O(N)
 */
 
 class Solution {
