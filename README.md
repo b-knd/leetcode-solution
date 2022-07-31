@@ -24,6 +24,7 @@ Some of my solutions and attempts for leetcode problems
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](/Java/Q125ValidPalindrome.java) | Medium | `Two Pointers` `String` |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/) | [Java](/Java/Q128LongestConsecutiveSequence.java) | Medium | `Array` `Hash Table` `Union Find` |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](/Java/Q136SingleNumber.java) | Easy | `Array` `Bit Manipulation` | 
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | [Java](/Java/Q141LinkedListCycle.java) | Easy | `Linked List` `Hash Table` `Two Pointer` |
 | 160 | [Intersection of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](/Java/Q160IntersectionLinkedList.java) | Easy | `Linked List` `Hash Table` `Two Pointer` |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](/Java/Q167TwoSumII.java) | Medium | `Array` `Two Pointers` `Binary Search` |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](/SQL/Q181EarnMoreThanManagers.sql) | Easy | `Database` |
@@ -32,6 +33,7 @@ Some of my solutions and attempts for leetcode problems
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](/SQL/Q184DepartmentHighestSalary.sql) | Easy | `Database` |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](/SQL/Q196DeleteDuplicateEmails.sql) | Easy | `Database` |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](/SQL/Q197RisingTemperature.sql) | Easy | `Database` |
+| 203 | [Remove Linked List Elements]([https://leetcode.com/problems/remove-linked-list-elements/discuss/?currentPage=1&orderBy=hot&query=](https://leetcode.com/problems/remove-linked-list-elements/)) | [Java](/Java/Q203RemoveLinkedListElements.java) | Easy | `Linked List` |
 | 209 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](/Java/Q206ReverseLinkedList.java) | Easy | `Linked List` `Recursion` |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](/Java/Q217ContainsDuplicate.java) | Easy | `Array` `Hash Table` `Sorting` |
 | 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js) |Easy|`Stack` `Queue` `Design`|
