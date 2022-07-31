@@ -19,7 +19,7 @@
 
 class Solution {
     
-    //O(N) time complexity for traversing list and O(1) space
+    //O(N) time complexity for traversing list and O(N) space
     public ListNode middleNodeImproved(ListNode head) {
         ListNode res = head, pointer = head;
         while(pointer != null && pointer.next != null){
