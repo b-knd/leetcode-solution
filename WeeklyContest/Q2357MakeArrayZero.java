@@ -1,8 +1,29 @@
 /*
   @b-knd (jingru) on 31 July 2022 14:39:00  
+  
+  A better approach: 
+  - The answer is simply the number of unique non-zero element (solution will only take one pass through the array, O(N) time and O(1) space)
 */
 
 class Solution {
+    //improved solution
+    public int minimumOperationsImproved(int[] nums) {
+        HashSet<Integer> hs = new HashSet<>();
+
+          for(int i: nums){
+              if(i > 0){
+                  hs.add(i);
+              }    
+          }
+          return hs.size(); 
+    }
+    //Runtime: 2 ms, faster than 50.00% of Java online submissions for Make Array Zero by Subtracting Equal Amounts.
+    //Memory Usage: 41.3 MB, less than 87.50% of Java online submissions for Make Array Zero by Subtracting Equal Amounts.
+  
+    /*
+    My submitted solution
+    - O(nlogn) time due to sorting array, O(1) space
+    */
     public int minimumOperations(int[] nums) {
         Arrays.sort(nums);
         int min = 0;
@@ -35,4 +56,6 @@ class Solution {
         }
         return count;
     }
+    //Runtime: 2 ms, faster than 50.00% of Java online submissions for Make Array Zero by Subtracting Equal Amounts.
+    //Memory Usage: 41.9 MB, less than 50.00% of Java online submissions for Make Array Zero by Subtracting Equal Amounts.
 }
