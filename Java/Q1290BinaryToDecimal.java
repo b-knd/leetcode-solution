@@ -21,7 +21,7 @@
     
     Complexity analysis:
     - time: O(N), while loop
-    - space: O(N), no extra space used
+    - space: O(N)
 */
 
 class Solution {
