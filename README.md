@@ -72,6 +72,7 @@ Some of my solutions and attempts for leetcode problems
 | 2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | [Java](/WeeklyContest/Q2343QueryKthSmallestTrimeedNumber.java) | Medium | `Weekly Contest 302` | 
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [Java](/WeeklyContest/Q2351FirstLettertoAppearTwice.java) | Easy | `Weekly Contest 303` |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Java](/WeeklyContest/Q2352EqualRowandColumnPairs.java) | Medium | `Weekly Contest 303` |
+| 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Java](WeeklyContest/Q2357MakeArrayZero.java) | Easy | `Weekly Contest 304` |
 
 
 
