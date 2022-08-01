@@ -63,6 +63,7 @@ Some of my solutions and attempts for leetcode problems
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [SQL](/SQL/Q1393CapitalGainLoss.sql) | Medium | `Database` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](/Java/Q1431GreatestNumOfCandies.java) | Easy | `Array` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](/Java/Q1470ShuffleArray.java) | Easy | `Array` |
+| 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Java](/Java/Q1472DesignBrowserHistory.java) | Medium | `Array` `Linked List` `Stack` `Design` `Doubly-Linked List` `Data Stream` | 
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](/Java/Q1480RunningSum.java) | Easy | `Array` `Prefix Sum` | 
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](/Java/Q1512GoodPairs.java) | Easy | `Array` `Hash Table` `Math` `Counting` |
 | 1627 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/) | [Java](/Java/Q1672RichestCustomer.java) | Easy | `Array` `Matrix` |
@@ -70,6 +71,8 @@ Some of my solutions and attempts for leetcode problems
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](/SQL/Q1741TotalTime.md) | Easy | `Database` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/submissions/) | [Java](/Java/Q1920BuildArrayFromPermutation.java) | Easy | `Array` `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](/Java/Q1929ConcatenationOfArray.java) | Easy | `Array` |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Java](/Java/Q2130MaximumTwinSum.java) | Medium | `Linked List` `Two Pointers` `Stack` |
+| 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Java](/Java/Q2181MergeNodes.java) | Medium | `Linked List` `Simulation` |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Java](/Java/Q2215FindTheDifference.java) | Easy | `Array` `Hash Table` |
 | 2335 | [Minimum Amount of Time To Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [Java](/WeeklyContest/Q2335MinimumAmountofTimeToFillCups.java) | Easy | `Weekly Contest 301` |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Java](/WeeklyContest/Q2336SmallestNumberinInfiniteSet.java) | Easy | `Weekly Contest 301` |
