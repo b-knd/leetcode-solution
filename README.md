@@ -67,6 +67,7 @@ Some of my solutions and attempts for leetcode problems
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](/Java/Q1480RunningSum.java) | Easy | `Array` `Prefix Sum` | 
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](/Java/Q1512GoodPairs.java) | Easy | `Array` `Hash Table` `Math` `Counting` |
 | 1627 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/) | [Java](/Java/Q1672RichestCustomer.java) | Easy | `Array` `Matrix` |
+| 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Java](/Java/Q1669MergeInBetweenLinkedList.java) | Medium | `Linked List` |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [SQL](/SQL/Q1693LeadsAndPartners.sql) | Easy | `Database` | 
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](/SQL/Q1741TotalTime.md) | Easy | `Database` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/submissions/) | [Java](/Java/Q1920BuildArrayFromPermutation.java) | Easy | `Array` `Simulation` |
@@ -74,6 +75,7 @@ Some of my solutions and attempts for leetcode problems
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Java](/Java/Q2130MaximumTwinSum.java) | Medium | `Linked List` `Two Pointers` `Stack` |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Java](/Java/Q2181MergeNodes.java) | Medium | `Linked List` `Simulation` |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Java](/Java/Q2215FindTheDifference.java) | Easy | `Array` `Hash Table` |
+| 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/submissions/) | [Java](/Java/Q2326SpiralMatrixIV.java) | Medium | `Array` `Linked List` `Matrix` `Simulation` |
 | 2335 | [Minimum Amount of Time To Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [Java](/WeeklyContest/Q2335MinimumAmountofTimeToFillCups.java) | Easy | `Weekly Contest 301` |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Java](/WeeklyContest/Q2336SmallestNumberinInfiniteSet.java) | Easy | `Weekly Contest 301` |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Java](WeeklyContest/Q2337MovePiecestoObtainaString.java) | Medium | `Weekly Contest 301` |
