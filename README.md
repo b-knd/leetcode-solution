@@ -22,6 +22,7 @@ Some of my solutions and attempts for leetcode problems
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](Java/Q66PlusOne.java), [Javascript](Javascript/Q66PlusOne.js) | Easy | `Array` `Math` | 
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/) | [Java](/Java/Q74Search2DMatrix.java) | Medium |  `Array` `Binary Search` `Matrix` | 
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](/Java/RemoveDuplicates.java) | Easy | 
+| 89 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](/Java/Q86PartitionList.java) | Medium | `Linked List` `Two Pointers` | 
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](/Java/Q125ValidPalindrome.java) | Medium | `Two Pointers` `String` |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/) | [Java](/Java/Q128LongestConsecutiveSequence.java) | Medium | `Array` `Hash Table` `Union Find` |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](/Java/Q136SingleNumber.java) | Easy | `Array` `Bit Manipulation` | 
@@ -46,7 +47,7 @@ Some of my solutions and attempts for leetcode problems
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](Java/Q347TopKFrequentElements.java) | Medium | `Array` `Hash Table` `Sorting` `Heap(Priority Queue)` | 
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Java](/Java/Q382LinkedListRandomNumber.java) | Medium | `Linked List` `Math` `Reservoir Sampling` `Randomized` |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Java](/Java/Q430FlattenList.java) | Medium | `Linked List` `Doubly-Linked List` |
-| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](/Java/Q445AddTwoNumbersII.java) | Medium | `Linked List` `Stack ` Math` |
+| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](/Java/Q445AddTwoNumbersII.java) | Medium | `Linked List` `Stack` `Math` |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [SQL](/SQL/Q511GamePlayAnalysisI.sql) | Easy | `Database` |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](/SQL/Q584FindCustomerReferee.sql) | Easy | `Database` | 
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [SQL](/SQL/Q586CustomerWithLargestNumberofOrders.sql) | Easy | `Database` |
@@ -58,6 +59,7 @@ Some of my solutions and attempts for leetcode problems
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](/Java/Q704BinarySearch.java) | Easy | `Array` `Binary Search` |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Java](/Java/Q705DesignHashset.java) | Easy | `Array` `Hash Table` `Linked List` `Hash Function` `Design` |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Java](/Java/Q706DesignHashMap.java) | Easy | `Array` `Hash Table` `Linked List` `Design` `Hash Function` |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [Java](/Java/Q725SplitLinkedList.java) | Medium | `Linked List`
 | 809 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [Java](/Java/Q809FindAndReplacePattern.java) | Medium | `Array` `Hash Table` `String` |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [Java](/Java/Q817LinkedListComponents.java) | Medium | `Hash Table` `Linked List` |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](/Java/Q876MiddleOfLinkedList.java) | Easy | `Linked List` `Two Pointers` |
@@ -72,6 +74,7 @@ Some of my solutions and attempts for leetcode problems
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Java](/Java/Q1472DesignBrowserHistory.java) | Medium | `Array` `Linked List` `Stack` `Design` `Doubly-Linked List` `Data Stream` | 
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](/Java/Q1480RunningSum.java) | Easy | `Array` `Prefix Sum` | 
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](/Java/Q1512GoodPairs.java) | Easy | `Array` `Hash Table` `Math` `Counting` |
+| 1614 | [Masimum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Java](/Java/Q1614MaximumNestingParenthesesDepth.java) | Medium | `String` `Stack` |
 | 1627 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/) | [Java](/Java/Q1672RichestCustomer.java) | Easy | `Array` `Matrix` |
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Java](/Java/Q1669MergeInBetweenLinkedList.java) | Medium | `Linked List` |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [SQL](/SQL/Q1693LeadsAndPartners.sql) | Easy | `Database` | 
@@ -79,6 +82,8 @@ Some of my solutions and attempts for leetcode problems
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](/SQL/Q1741TotalTime.md) | Easy | `Database` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/submissions/) | [Java](/Java/Q1920BuildArrayFromPermutation.java) | Easy | `Array` `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](/Java/Q1929ConcatenationOfArray.java) | Easy | `Array` |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Java](/Java/Q2058CriticalPointMinMax.java) | Medium | `Linked List` |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Java](/Java/Q2095DeleteMiddleNode.java) | Medium | `Linked List` `Two Pointers` |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Java](/Java/Q2130MaximumTwinSum.java) | Medium | `Linked List` `Two Pointers` `Stack` |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Java](/Java/Q2181MergeNodes.java) | Medium | `Linked List` `Simulation` |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Java](/Java/Q2215FindTheDifference.java) | Easy | `Array` `Hash Table` |
