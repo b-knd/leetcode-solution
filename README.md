@@ -64,6 +64,7 @@ Some of my solutions and attempts for leetcode problems
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [Java](/Java/Q817LinkedListComponents.java) | Medium | `Hash Table` `Linked List` |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](/Java/Q876MiddleOfLinkedList.java) | Easy | `Linked List` `Two Pointers` |
 | 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [Java](/Java/Q916WordSubsets.java) | Medium | `Array` `Hash Table` `String` |
+| 1021 | [Remove Outermost Prentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](/Java/Q1021RemoveOutermostParentheses.java) | Easy | `String` `Stack` |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](/SQL/Q1050ActorsDirectorsCooperations.sql) | Easy | `Database` |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Java](/Java/Q1290BinaryToDecimal.java) | Easy | `Linked List` `Math` |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Java](/Java/Q1313DecompressList.java) | Easy | `Array` |
