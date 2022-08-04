@@ -2,6 +2,51 @@
 @b-knd (jingru) on 04 AUgust 2022 10:06:00
 */
 
+//alternative, faster solution (lazy increment O(1))
+class CustomStack {
+    Stack<Integer> stack = new Stack<>();
+    int[] inc;
+    int maxSize;
+
+    public CustomStack(int maxSize) {
+        inc = new int[maxSize];
+        this.maxSize = maxSize;
+    }
+    
+    public void push(int x) {
+        if(stack.size() < maxSize){
+            stack.push(x);
+        }
+    }
+    
+    public int pop() {
+        int i = stack.size()-1;
+        if(i < 0){
+            return -1;
+        } else if (i > 0){
+            inc[i-1] += inc[i];
+        }
+        int res = stack.pop()+inc[i];
+        inc[i] = 0;
+        return res;
+    }
+    
+    public void increment(int k, int val) {
+        int i = Math.min(k, stack.size())-1;
+        
+        //last index where increment takes place
+        if(i >= 0){
+            inc[i] += val;
+        }
+    }
+}
+
+//Runtime: 5 ms, faster than 95.16% of Java online submissions for Design a Stack With Increment Operation.
+//Memory Usage: 43.3 MB, less than 88.53% of Java online submissions for Design a Stack With Increment Operation.
+
+/*---------------------------------------------------------------------------------------------------------------*/
+
+//my submission
 class CustomStack {
     Stack<Integer> stack = new Stack<>();
     Stack<Integer> temp = new Stack<>();
