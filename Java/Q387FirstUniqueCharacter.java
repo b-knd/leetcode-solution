@@ -2,6 +2,7 @@
 @b-knd (jingru) on 05 August 2022 10:01:00
 */
 
+//since condition have string contains only lowercase english letter, set array to int[26], if not mentioned, need to have int[256]
 class Solution {
     public int firstUniqChar(String s) {
         int[] count = new int[26];
