@@ -35,7 +35,7 @@ Some of my solutions and attempts for leetcode problems
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](/SQL/Q184DepartmentHighestSalary.sql) | Easy | `Database` |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](/SQL/Q196DeleteDuplicateEmails.sql) | Easy | `Database` |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](/SQL/Q197RisingTemperature.sql) | Easy | `Database` |
-| 203 | [Remove Linked List Elements]([https://leetcode.com/problems/remove-linked-list-elements/discuss/?currentPage=1&orderBy=hot&query=](https://leetcode.com/problems/remove-linked-list-elements/)) | [Java](/Java/Q203RemoveLinkedListElements.java) | Easy | `Linked List` |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](/Java/Q203RemoveLinkedListElements.java) | Easy | `Linked List` |
 | 209 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](/Java/Q206ReverseLinkedList.java) | Easy | `Linked List` `Recursion` |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](/Java/Q217ContainsDuplicate.java) | Easy | `Array` `Hash Table` `Sorting` |
 | 225 |[Implement using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js) |Easy|`Stack` `Queue` `Design`|
@@ -46,7 +46,9 @@ Some of my solutions and attempts for leetcode problems
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](/Java/Q242ValidAnagram.java) | Easy | `Hash Table` `String` `Sorting` | 
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](/Java/Q328OddEvenLinkedList.java) | Medium | `Linked List` | 
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](Java/Q347TopKFrequentElements.java) | Medium | `Array` `Hash Table` `Sorting` `Heap(Priority Queue)` | 
+| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](/Java/Q377CombinationSumIV.java) | Medium | `Array` `Dynammic Programming` |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Java](/Java/Q382LinkedListRandomNumber.java) | Medium | `Linked List` `Math` `Reservoir Sampling` `Randomized` |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](/Java/Q387FirstUniqueCharacter.java) | Easy | `Hash Table` `String` `Queue` `Counting` |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Java](/Java/Q430FlattenList.java) | Medium | `Linked List` `Doubly-Linked List` |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](/Java/Q445AddTwoNumbersII.java) | Medium | `Linked List` `Stack` `Math` |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [SQL](/SQL/Q511GamePlayAnalysisI.sql) | Easy | `Database` |
@@ -66,6 +68,8 @@ Some of my solutions and attempts for leetcode problems
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](/Java/Q876MiddleOfLinkedList.java) | Easy | `Linked List` `Two Pointers` |
 | 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [Java](/Java/Q916WordSubsets.java) | Medium | `Array` `Hash Table` `String` |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Java](/Java/Q921MinimumAddValidParentheses.java) | Medium | `String` `Stack` `Greedy` |
+| 933 | [Number of Recent Calls]() | [Java](/Java/Q933RecentCalls.java) | Easy | `Design` `Queue` `Data Stream` |
+| 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Java](/Java/Q950RevealCardsIncreasingOrder.java) | Medium | `Array` `Queue` `Sorting` `Simulation` |
 | 1021 | [Remove Outermost Prentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](/Java/Q1021RemoveOutermostParentheses.java) | Easy | `String` `Stack` |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](/Java/Q1047RemoveAdjacentDuplicates.java) | Easy | `String` `Stack` |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](/SQL/Q1050ActorsDirectorsCooperations.sql) | Easy | `Database` |
@@ -85,11 +89,13 @@ Some of my solutions and attempts for leetcode problems
 | 1627 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/) | [Java](/Java/Q1672RichestCustomer.java) | Easy | `Array` `Matrix` |
 | 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Java](/Java/Q1669MergeInBetweenLinkedList.java) | Medium | `Linked List` |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [SQL](/SQL/Q1693LeadsAndPartners.sql) | Easy | `Database` | 
+| 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Java](/Java/Q1700UnableToEatLunch.java) | Easy | `Array` `Stack` `Queue` `Simulation` |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Java](/Java/Q1721SwappingNodes.java) | Medium | `Linked List` `Two Pointers` |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [SQL](/SQL/Q1741TotalTime.md) | Easy | `Database` |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/submissions/) | [Java](/Java/Q1920BuildArrayFromPermutation.java) | Easy | `Array` `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](/Java/Q1929ConcatenationOfArray.java) | Easy | `Array` |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Java](/Java/Q2058CriticalPointMinMax.java) | Medium | `Linked List` |
+| 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Java](/Java/Q2073TimeToBuyTickets.java) | Easy | `Array` `Queue` `Simulation` |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Java](/Java/Q2095DeleteMiddleNode.java) | Medium | `Linked List` `Two Pointers` |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Java](/Java/Q2130MaximumTwinSum.java) | Medium | `Linked List` `Two Pointers` `Stack` |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Java](/Java/Q2181MergeNodes.java) | Medium | `Linked List` `Simulation` |
