@@ -38,8 +38,9 @@ Some of my solutions and attempts for leetcode problems
 | 203 | [Remove Linked List Elements]([https://leetcode.com/problems/remove-linked-list-elements/discuss/?currentPage=1&orderBy=hot&query=](https://leetcode.com/problems/remove-linked-list-elements/)) | [Java](/Java/Q203RemoveLinkedListElements.java) | Easy | `Linked List` |
 | 209 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](/Java/Q206ReverseLinkedList.java) | Easy | `Linked List` `Recursion` |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](/Java/Q217ContainsDuplicate.java) | Easy | `Array` `Hash Table` `Sorting` |
-| 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js) |Easy|`Stack` `Queue` `Design`|
-| 234 | [Palindrome Linked List]() | [Java](/Java/Q234PalindromeLinkedList.java) | Easy | `Linked List` |
+| 225 |[Implement using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js) |Easy|`Stack` `Queue` `Design`|
+| 232 | [Implement QUeue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](/Java/Q232ImplementQueueUsingStack.java) | Easy | `Stack` `Queue` `Design` |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java](/Java/Q234PalindromeLinkedList.java) | Easy | `Linked List` |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](/Java/Q237DeleteNode.java) |Easy | `Linked List` |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](Java/Q238ProductExceptSelf.java/) | Medium | `Array` `Prefix Sum` | 
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](/Java/Q242ValidAnagram.java) | Easy | `Hash Table` `String` `Sorting` | 
@@ -64,15 +65,20 @@ Some of my solutions and attempts for leetcode problems
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [Java](/Java/Q817LinkedListComponents.java) | Medium | `Hash Table` `Linked List` |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](/Java/Q876MiddleOfLinkedList.java) | Easy | `Linked List` `Two Pointers` |
 | 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [Java](/Java/Q916WordSubsets.java) | Medium | `Array` `Hash Table` `String` |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Java](/Java/Q921MinimumAddValidParentheses.java) | Medium | `String` `Stack` `Greedy` |
 | 1021 | [Remove Outermost Prentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](/Java/Q1021RemoveOutermostParentheses.java) | Easy | `String` `Stack` |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](/Java/Q1047RemoveAdjacentDuplicates.java) | Easy | `String` `Stack` |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](/SQL/Q1050ActorsDirectorsCooperations.sql) | Easy | `Database` |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Java](/Java/Q1290BinaryToDecimal.java) | Easy | `Linked List` `Math` |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Java](/Java/Q1313DecompressList.java) | Easy | `Array` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](/Java/Q1365SmallerThenCurrent.java) | Easy | `Array` `Hash Table` `Sorting` `Counting` |
+| 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Java](/Java/Q1381DesignStack.java) | Medium | `Array` `Stack` `Design` |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [SQL](/SQL/Q1393CapitalGainLoss.sql) | Medium | `Database` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](/Java/Q1431GreatestNumOfCandies.java) | Easy | `Array` |
+| 1441 | [Build an Array With Stack](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [Java](/Java/Q1441BuildArrayWithStack.java) | Easy | `Array` `Stack` `Simulation` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Java](/Java/Q1470ShuffleArray.java) | Easy | `Array` |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Java](/Java/Q1472DesignBrowserHistory.java) | Medium | `Array` `Linked List` `Stack` `Design` `Doubly-Linked List` `Data Stream` | 
+| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [Java](/Java/Q1475FinalPrices.java) | Easy | `Array` `Stack` `Monotonic Stack` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java](/Java/Q1480RunningSum.java) | Easy | `Array` `Prefix Sum` | 
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Java](/Java/Q1512GoodPairs.java) | Easy | `Array` `Hash Table` `Math` `Counting` |
 | 1614 | [Masimum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Java](/Java/Q1614MaximumNestingParenthesesDepth.java) | Medium | `String` `Stack` |
