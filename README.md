@@ -57,8 +57,12 @@ Some of my solutions and attempts for leetcode problems
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](/SQL/Q595BigCountries.sql) | Easy | `Database` |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [SQL](/SQL/Q596ClassesMoreThan5Students.sql) | Easy | `Database` |
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [SQL](/SQL/Q607SalesPerson.sql) | Easy | `Database` |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](/Java/Q617MergeBinaryTrees.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](/SQL/Q620NotBoringMovies.sql) | Easy | `Database` |
+| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Java](/Java/Q622DesignCircularQueue.java) | Medium | `Array` `Linked List` `Design` `Queue` |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [SQL](/SQL/Q627SwapSalary.sql) | Easy | `Database` | 
+| 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Java](/Java/Q641DesignCircularDeque.java) | Medium | `Array` `Linked List` `Design` `Queue` |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](/Java/Q700SearchBinaryTree.java) | Easy | `Tree` `Binary Search Tree` `Binary Tree` |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](/Java/Q704BinarySearch.java) | Easy | `Array` `Binary Search` |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Java](/Java/Q705DesignHashset.java) | Easy | `Array` `Hash Table` `Linked List` `Hash Function` `Design` |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Java](/Java/Q706DesignHashMap.java) | Easy | `Array` `Hash Table` `Linked List` `Design` `Hash Function` |
@@ -66,9 +70,11 @@ Some of my solutions and attempts for leetcode problems
 | 809 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [Java](/Java/Q809FindAndReplacePattern.java) | Medium | `Array` `Hash Table` `String` |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [Java](/Java/Q817LinkedListComponents.java) | Medium | `Hash Table` `Linked List` |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](/Java/Q876MiddleOfLinkedList.java) | Easy | `Linked List` `Two Pointers` |
+| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Java](/Java/Q897IncreasingOrderSearchTree.java) | Easy | `Stack` `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
 | 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [Java](/Java/Q916WordSubsets.java) | Medium | `Array` `Hash Table` `String` |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Java](/Java/Q921MinimumAddValidParentheses.java) | Medium | `String` `Stack` `Greedy` |
-| 933 | [Number of Recent Calls]() | [Java](/Java/Q933RecentCalls.java) | Easy | `Design` `Queue` `Data Stream` |
+| 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Java](/Java/Q933RecentCalls.java) | Easy | `Design` `Queue` `Data Stream` |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Java](/Java/Q938RangeSumOfSBST.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
 | 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Java](/Java/Q950RevealCardsIncreasingOrder.java) | Medium | `Array` `Queue` `Sorting` `Simulation` |
 | 1021 | [Remove Outermost Prentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](/Java/Q1021RemoveOutermostParentheses.java) | Easy | `String` `Stack` |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](/Java/Q1047RemoveAdjacentDuplicates.java) | Easy | `String` `Stack` |
@@ -76,6 +82,7 @@ Some of my solutions and attempts for leetcode problems
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Java](/Java/Q1290BinaryToDecimal.java) | Easy | `Linked List` `Math` |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Java](/Java/Q1313DecompressList.java) | Easy | `Array` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Java](/Java/Q1365SmallerThenCurrent.java) | Easy | `Array` `Hash Table` `Sorting` `Counting` |
+| 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Java](/Java/Q1379FindTargetNode.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
 | 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Java](/Java/Q1381DesignStack.java) | Medium | `Array` `Stack` `Design` |
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [SQL](/SQL/Q1393CapitalGainLoss.sql) | Medium | `Database` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](/Java/Q1431GreatestNumOfCandies.java) | Easy | `Array` |
@@ -100,7 +107,9 @@ Some of my solutions and attempts for leetcode problems
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Java](/Java/Q2130MaximumTwinSum.java) | Medium | `Linked List` `Two Pointers` `Stack` |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Java](/Java/Q2181MergeNodes.java) | Medium | `Linked List` `Simulation` |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Java](/Java/Q2215FindTheDifference.java) | Easy | `Array` `Hash Table` |
+| 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [Java](/Java/Q2236RootEqualsSumOfChildren.java) | Easy | `Tree` `Binary Tree` |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/submissions/) | [Java](/Java/Q2326SpiralMatrixIV.java) | Medium | `Array` `Linked List` `Matrix` `Simulation` |
+| 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | [Java](/Java/Q2331EvaluateBooleanBinaryTree.java) | Easy | `Binary Search` `Tree` `Depth-First Search` |
 | 2335 | [Minimum Amount of Time To Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [Java](/WeeklyContest/Q2335MinimumAmountofTimeToFillCups.java) | Easy | `Weekly Contest 301` |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Java](/WeeklyContest/Q2336SmallestNumberinInfiniteSet.java) | Easy | `Weekly Contest 301` |
 | 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Java](WeeklyContest/Q2337MovePiecestoObtainaString.java) | Medium | `Weekly Contest 301` |
