@@ -54,6 +54,8 @@ Some of my solutions and attempts for leetcode problems
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [SQL](/SQL/Q511GamePlayAnalysisI.sql) | Easy | `Database` |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](/SQL/Q584FindCustomerReferee.sql) | Easy | `Database` | 
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [SQL](/SQL/Q586CustomerWithLargestNumberofOrders.sql) | Easy | `Database` |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](/Java/Q589N-aryTreePreorder.java) | Easy | `Stack` `Tree` `Dept-First Search` |
+| 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Java](/Java/Q590N-aryPostorder.java) | Easy | `Stack` `Tree` `Dept-First Search` |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](/SQL/Q595BigCountries.sql) | Easy | `Database` |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [SQL](/SQL/Q596ClassesMoreThan5Students.sql) | Easy | `Database` |
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [SQL](/SQL/Q607SalesPerson.sql) | Easy | `Database` |
