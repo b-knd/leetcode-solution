@@ -14,7 +14,7 @@ Some of my solutions and attempts for leetcode problems
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](/Java/Q12IntegerToRoman.java), [Python](/Python/Q12IntegerToRoman.py) | Medium | `Hash Table` `Math` `String` |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](/Java/Q21MergeTwoSortedList.java), [Python](/Python/Q21MergeTwoSortedList.py) | Easy | `Linked List` | 
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](/Java/Q24SwapNodesInPairs.java), [Python](/Python/Q24SwapNodesInPairs.py) | Medium | `Linked List` |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](C/Q26RemoveDuplicatesFromSortedArray.c), [Java](/Java/Q26RemoveDuplicatesFromSortedArray.java), [Javascript](/Javascript/Q26RemoveDuplicatesFromSortedArray.js) | Easy | `Array` `Two Pointers` |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](C/Q26RemoveDuplicatesFromSortedArray.c), [Java](/Java/Q26RemoveDuplicatesFromSortedArray.java), [Javascript](/Javascript/Q26RemoveDuplicatesFromSortedArray.js), [Python](/Python/Q26RemoveDuplicates.py) | Easy | `Array` `Two Pointers` |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/submissions/) | [C](C/Q27RemoveElement.c), [Java](Java/Q27RemoveElement.java), [Javascript](Javascript/Q27RemoveElement.js) | Easy | `Array` `Two Pointers` |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](Java/Q35SearchInsertPosition.java), [Javascript](Javascript/Q35SearchInsertPosition.js) | Easy | `Array` `Binary Search`|
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](/Java/Q36ValidSudoku.java) | Medium | `Array` `Hash Table` `Matrix` |
@@ -55,6 +55,7 @@ Some of my solutions and attempts for leetcode problems
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Java](/Java/Q430FlattenList.java) | Medium | `Linked List` `Doubly-Linked List` |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](/Java/Q445AddTwoNumbersII.java) | Medium | `Linked List` `Stack` `Math` |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [SQL](/SQL/Q511GamePlayAnalysisI.sql) | Easy | `Database` |
+| 559 | [N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Java](/Java/Q559N-aryTree.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](/SQL/Q584FindCustomerReferee.sql) | Easy | `Database` | 
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [SQL](/SQL/Q586CustomerWithLargestNumberofOrders.sql) | Easy | `Database` |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](/Java/Q589N-aryTreePreorder.java) | Easy | `Stack` `Tree` `Dept-First Search` |
@@ -66,6 +67,7 @@ Some of my solutions and attempts for leetcode problems
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](/SQL/Q620NotBoringMovies.sql) | Easy | `Database` |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Java](/Java/Q622DesignCircularQueue.java) | Medium | `Array` `Linked List` `Design` `Queue` |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [SQL](/SQL/Q627SwapSalary.sql) | Easy | `Database` | 
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](/Java/Q637AverageOfLevels.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
 | 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Java](/Java/Q641DesignCircularDeque.java) | Medium | `Array` `Linked List` `Design` `Queue` |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](/Java/Q700SearchBinaryTree.java) | Easy | `Tree` `Binary Search Tree` `Binary Tree` |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](/Java/Q704BinarySearch.java) | Easy | `Array` `Binary Search` |
