@@ -11,9 +11,7 @@ class Solution {
         //created a dummy head (to keep track of head of merged list)
         ListNode dummy = new ListNode();
         //pointer that keep track of current node, initate to empty node because not yet compare head of list 1 and 2
-        ListNode curr = new ListNode();
-        dummy.next = curr;
-    
+        ListNode curr = dummy;    
 
         while(list1 != null || list2 != null){
             /*
@@ -43,7 +41,7 @@ class Solution {
                 break;
             }
         }
-        return dummy.next.next;
+        return dummy.next;
     }
 }
 
