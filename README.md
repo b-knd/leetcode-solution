@@ -9,11 +9,11 @@ Some of my solutions and attempts for leetcode problems
 
 | **#** | **Title** | **Solution** | **Difficulty** | **Topics** |
 |-------|-----------|--------------|----------------|------------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/) | [Java](/Java/Q1TwoSum.java) | Easy | `Array` `Hash Table` |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](/Java/Q2AddTwoNumbers.java) | Medium | `Linked List` `Math` `Recursion` |
-| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](/Java/Q12IntegerToRoman.java) | Medium | `Hash Table` `Math` `String` |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](/Java/Q21MergeTwoSortedList.java) | Easy | `Linked List` | 
-| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](/Java/Q24SwapNodesInPairs.java) | Medium | `Linked List` |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/) | [Java](/Java/Q1TwoSum.java), [Python](Python/Q1TwoSum.py) | Easy | `Array` `Hash Table` |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](/Java/Q2AddTwoNumbers.java), [Python](Python/Q2AddTwoNumbers.py) | Medium | `Linked List` `Math` `Recursion` |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](/Java/Q12IntegerToRoman.java), [Python](/Python/Q12IntegerToRoman.py) | Medium | `Hash Table` `Math` `String` |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](/Java/Q21MergeTwoSortedList.java), [Python](/Python/Q21MergeTwoSortedList.py) | Easy | `Linked List` | 
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](/Java/Q24SwapNodesInPairs.java), [Python](/Python/Q24SwapNodesInPairs.py) | Medium | `Linked List` |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C](C/Q26RemoveDuplicatesFromSortedArray.c), [Java](/Java/Q26RemoveDuplicatesFromSortedArray.java), [Javascript](/Javascript/Q26RemoveDuplicatesFromSortedArray.js) | Easy | `Array` `Two Pointers` |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/submissions/) | [C](C/Q27RemoveElement.c), [Java](Java/Q27RemoveElement.java), [Javascript](Javascript/Q27RemoveElement.js) | Easy | `Array` `Two Pointers` |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](Java/Q35SearchInsertPosition.java), [Javascript](Javascript/Q35SearchInsertPosition.js) | Easy | `Array` `Binary Search`|
@@ -23,6 +23,8 @@ Some of my solutions and attempts for leetcode problems
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/) | [Java](/Java/Q74Search2DMatrix.java) | Medium |  `Array` `Binary Search` `Matrix` | 
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](/Java/RemoveDuplicates.java) | Easy | 
 | 89 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](/Java/Q86PartitionList.java) | Medium | `Linked List` `Two Pointers` | 
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](/Java/Q94BinaryTreeInorderTraversal.java) | Easy | `Stack` `Tree` `Depth-First Search` `Breadth-First Search` |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](/Java/Q104TreeMaximumDepth.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](/Java/Q125ValidPalindrome.java) | Medium | `Two Pointers` `String` |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/) | [Java](/Java/Q128LongestConsecutiveSequence.java) | Medium | `Array` `Hash Table` `Union Find` |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](/Java/Q136SingleNumber.java) | Easy | `Array` `Bit Manipulation` | 
@@ -39,6 +41,7 @@ Some of my solutions and attempts for leetcode problems
 | 209 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](/Java/Q206ReverseLinkedList.java) | Easy | `Linked List` `Recursion` |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](/Java/Q217ContainsDuplicate.java) | Easy | `Array` `Hash Table` `Sorting` |
 | 225 |[Implement using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js) |Easy|`Stack` `Queue` `Design`|
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](/Java/Q226InvertBinaryTree.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
 | 232 | [Implement QUeue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](/Java/Q232ImplementQueueUsingStack.java) | Easy | `Stack` `Queue` `Design` |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java](/Java/Q234PalindromeLinkedList.java) | Easy | `Linked List` |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](/Java/Q237DeleteNode.java) |Easy | `Linked List` |
@@ -79,6 +82,7 @@ Some of my solutions and attempts for leetcode problems
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Java](/Java/Q938RangeSumOfSBST.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
 | 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Java](/Java/Q950RevealCardsIncreasingOrder.java) | Medium | `Array` `Queue` `Sorting` `Simulation` |
 | 1021 | [Remove Outermost Prentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](/Java/Q1021RemoveOutermostParentheses.java) | Easy | `String` `Stack` |
+| 1022 | [Sum of Root to Leaf Binary Number](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Java](/Java/Q1022SumOfRootToLeaf.java) | Easy | `Tree` `Depth-First Search` `Binary Tree` |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](/Java/Q1047RemoveAdjacentDuplicates.java) | Easy | `String` `Stack` |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [SQL](/SQL/Q1050ActorsDirectorsCooperations.sql) | Easy | `Database` |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Java](/Java/Q1290BinaryToDecimal.java) | Easy | `Linked List` `Math` |
