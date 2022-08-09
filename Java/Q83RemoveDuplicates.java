@@ -12,20 +12,23 @@ class Solution {
         ListNode curr = head.next;
         
         /*
-        - if current value is same as the previous value, remove current node by pointing prev's next pointer to current's next, advance to next node
-        - otherwise, advance previous and current node
+        - keep on traversing list until found a distinct value or finish with list
+        - change node links, update prev node and continue traversing
         */
         while(curr != null){
-            if(curr.val == prev.val){
-                prev.next = curr.next;
-            } else{
-                prev = curr;
+            while(curr != null && curr.val == prev.val){
+                curr = curr.next;
             }
-            curr = curr.next;
+            prev.next = curr;
+            prev = curr;
+            if(curr != null){
+                curr = curr.next;
+            }
         }
         return dummyHead;
     }
 }
 
-//Runtime: 1 ms, faster than 79.16% of Java online submissions for Remove Duplicates from Sorted List.
-//Memory Usage: 45.2 MB, less than 5.56% of Java online submissions for Remove Duplicates from Sorted List.
+//Runtime: 1 ms, faster than 79.17% of Java online submissions for Remove Duplicates from Sorted List.
+//Memory Usage: 44.4 MB, less than 36.35% of Java online submissions for Remove Duplicates from Sorted List.
+
