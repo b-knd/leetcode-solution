@@ -32,7 +32,7 @@ Some of my solutions and attempts for leetcode problems
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | [Java](/Java/Q141LinkedListCycle.java) | Easy | `Linked List` `Hash Table` `Two Pointer` |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](/Java/Q144BinaryTreePreorderTraversal.java) | Easy | `Stack` `Tree` `Depth-First Search` `Binary Tree` |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](/Java/Q145BinaryTreePostTraversal.java) | Easy | `Stack` `Tree` `Depth-First Search` `Binary Tree` |
-| 160 | [Intersection of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](/Java/Q160IntersectionLinkedList.java) | Easy | `Linked List` `Hash Table` `Two Pointer` |
+| 160 | [Intersection of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](/Java/Q160IntersectionLinkedList.java), [Python](Python/Q160IntersectionOfTwoLinkedList.py) | Easy | `Linked List` `Hash Table` `Two Pointer` |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](/Java/Q167TwoSumII.java) | Medium | `Array` `Two Pointers` `Binary Search` |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](/SQL/Q181EarnMoreThanManagers.sql) | Easy | `Database` |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](/SQL/Q182DuplicateEmails.sql) | Easy | `Database` |
@@ -40,16 +40,17 @@ Some of my solutions and attempts for leetcode problems
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [SQL](/SQL/Q184DepartmentHighestSalary.sql) | Easy | `Database` |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](/SQL/Q196DeleteDuplicateEmails.sql) | Easy | `Database` |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](/SQL/Q197RisingTemperature.sql) | Easy | `Database` |
-| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](/Java/Q203RemoveLinkedListElements.java) | Easy | `Linked List` |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](/Java/Q203RemoveLinkedListElements.java), [Python](Python/Q203RemoveLinkedListElements.py) | Easy | `Linked List` |
 | 209 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](/Java/Q206ReverseLinkedList.java) | Easy | `Linked List` `Recursion` |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](/Java/Q217ContainsDuplicate.java) | Easy | `Array` `Hash Table` `Sorting` |
 | 225 |[Implement using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js) |Easy|`Stack` `Queue` `Design`|
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](/Java/Q226InvertBinaryTree.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
-| 232 | [Implement QUeue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](/Java/Q232ImplementQueueUsingStack.java) | Easy | `Stack` `Queue` `Design` |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](/Java/Q232ImplementQueueUsingStack.java) | Easy | `Stack` `Queue` `Design` |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java](/Java/Q234PalindromeLinkedList.java) | Easy | `Linked List` |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](/Java/Q237DeleteNode.java) |Easy | `Linked List` |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](Java/Q238ProductExceptSelf.java/) | Medium | `Array` `Prefix Sum` | 
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](/Java/Q242ValidAnagram.java) | Easy | `Hash Table` `String` `Sorting` | 
+| 257 | [Binary Tree Path](https://leetcode.com/problems/binary-tree-paths/) | [Java](/Java/Q257BinaryPath.java) | Easy | `String` `Backtracking` `Tree` `Depth-First Search` `Binary Tree` |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](/Java/Q328OddEvenLinkedList.java) | Medium | `Linked List` | 
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](Java/Q347TopKFrequentElements.java) | Medium | `Array` `Hash Table` `Sorting` `Heap(Priority Queue)` | 
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](/Java/Q377CombinationSumIV.java) | Medium | `Array` `Dynammic Programming` |
