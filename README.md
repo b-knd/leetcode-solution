@@ -42,11 +42,12 @@ Some of my solutions and attempts for leetcode problems
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](/SQL/Q197RisingTemperature.sql) | Easy | `Database` |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](/Java/Q203RemoveLinkedListElements.java), [Python](Python/Q203RemoveLinkedListElements.py) | Easy | `Linked List` |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](/Java/Q206ReverseLinkedList.java), [Python](Python/Q206ReverseLinkedList.py) | Easy | `Linked List` `Recursion` |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](/Java/Q217ContainsDuplicate.java) | Easy | `Array` `Hash Table` `Sorting` |
-| 225 |[Implement using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js) |Easy|`Stack` `Queue` `Design`|
-| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](/Java/Q226InvertBinaryTree.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](/Java/Q217ContainsDuplicate.java), [Python](/Python/Q217ContainsDuplicate.py) | Easy | `Array` `Hash Table` `Sorting` |
+| 225 |[Implement using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js), [Python](/Python/Q225ImplmentStacksWithQueue.py) |Easy|`Stack` `Queue` `Design`|
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](/Java/Q226InvertBinaryTree.java), [Python](Python/Q226InvertBinaryTree.py) | Easy | `Tree` `DFS` `BFS` `Binary Tree` |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](/Java/Q232ImplementQueueUsingStack.java) | Easy | `Stack` `Queue` `Design` |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java](/Java/Q234PalindromeLinkedList.java) | Easy | `Linked List` |
+| 235 | [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](/Java/Q235LowestCommonAncestor.java) | Easy | `Tree` `DFS` `BFS` `Binary Tree` |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](/Java/Q237DeleteNode.java) |Easy | `Linked List` |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](Java/Q238ProductExceptSelf.java/) | Medium | `Array` `Prefix Sum` | 
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](/Java/Q242ValidAnagram.java) | Easy | `Hash Table` `String` `Sorting` | 
@@ -59,6 +60,7 @@ Some of my solutions and attempts for leetcode problems
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Java](/Java/Q430FlattenList.java) | Medium | `Linked List` `Doubly-Linked List` |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](/Java/Q445AddTwoNumbersII.java) | Medium | `Linked List` `Stack` `Math` |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [SQL](/SQL/Q511GamePlayAnalysisI.sql) | Easy | `Database` |
+| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](Java/Q530MinimumAbsoluteDifference.java) | Easy | `Tree` `DFS` `BFS` `Binary Search Tree` `Binary Tree` |
 | 559 | [N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Java](/Java/Q559N-aryTree.java) | Easy | `Tree` `DFS` `BFS` |
 | 563 | [Binary Tree Tile](https://leetcode.com/problems/binary-tree-tilt/) | [Java](Java/Q563BinaryTreeTilt.java) | Easy | `Tree` `DFS` `Binary Tree` | 
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](/SQL/Q584FindCustomerReferee.sql) | Easy | `Database` | 
@@ -67,6 +69,7 @@ Some of my solutions and attempts for leetcode problems
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Java](/Java/Q590N-aryPostorder.java) | Easy | `Stack` `Tree` `DFS` |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](/SQL/Q595BigCountries.sql) | Easy | `Database` |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [SQL](/SQL/Q596ClassesMoreThan5Students.sql) | Easy | `Database` |
+| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Java](Java/Q606ConstructStringFromBinaryTree.java) | Easy | `String` `Tree` `DFS` `Binary Tree` |
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [SQL](/SQL/Q607SalesPerson.sql) | Easy | `Database` |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](/Java/Q617MergeBinaryTrees.java) | Easy | `Tree` `DFS` `BFS` `Binary Tree` |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](/SQL/Q620NotBoringMovies.sql) | Easy | `Database` |
