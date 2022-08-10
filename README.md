@@ -41,7 +41,7 @@ Some of my solutions and attempts for leetcode problems
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](/SQL/Q196DeleteDuplicateEmails.sql) | Easy | `Database` |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](/SQL/Q197RisingTemperature.sql) | Easy | `Database` |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](/Java/Q203RemoveLinkedListElements.java), [Python](Python/Q203RemoveLinkedListElements.py) | Easy | `Linked List` |
-| 209 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](/Java/Q206ReverseLinkedList.java) | Easy | `Linked List` `Recursion` |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](/Java/Q206ReverseLinkedList.java), [Python](Python/Q206ReverseLinkedList.py) | Easy | `Linked List` `Recursion` |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](/Java/Q217ContainsDuplicate.java) | Easy | `Array` `Hash Table` `Sorting` |
 | 225 |[Implement using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js) |Easy|`Stack` `Queue` `Design`|
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](/Java/Q226InvertBinaryTree.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
@@ -59,20 +59,22 @@ Some of my solutions and attempts for leetcode problems
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Java](/Java/Q430FlattenList.java) | Medium | `Linked List` `Doubly-Linked List` |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](/Java/Q445AddTwoNumbersII.java) | Medium | `Linked List` `Stack` `Math` |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [SQL](/SQL/Q511GamePlayAnalysisI.sql) | Easy | `Database` |
-| 559 | [N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Java](/Java/Q559N-aryTree.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` |
+| 559 | [N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Java](/Java/Q559N-aryTree.java) | Easy | `Tree` `DFS` `BFS` |
+| 563 | [Binary Tree Tile](https://leetcode.com/problems/binary-tree-tilt/) | [Java](Java/Q563BinaryTreeTilt.java) | Easy | `Tree` `DFS` `Binary Tree` | 
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](/SQL/Q584FindCustomerReferee.sql) | Easy | `Database` | 
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [SQL](/SQL/Q586CustomerWithLargestNumberofOrders.sql) | Easy | `Database` |
-| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](/Java/Q589N-aryTreePreorder.java) | Easy | `Stack` `Tree` `Dept-First Search` |
-| 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Java](/Java/Q590N-aryPostorder.java) | Easy | `Stack` `Tree` `Dept-First Search` |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java](/Java/Q589N-aryTreePreorder.java) | Easy | `Stack` `Tree` `DFS` |
+| 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Java](/Java/Q590N-aryPostorder.java) | Easy | `Stack` `Tree` `DFS` |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](/SQL/Q595BigCountries.sql) | Easy | `Database` |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [SQL](/SQL/Q596ClassesMoreThan5Students.sql) | Easy | `Database` |
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | [SQL](/SQL/Q607SalesPerson.sql) | Easy | `Database` |
-| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](/Java/Q617MergeBinaryTrees.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](/Java/Q617MergeBinaryTrees.java) | Easy | `Tree` `DFS` `BFS` `Binary Tree` |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](/SQL/Q620NotBoringMovies.sql) | Easy | `Database` |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Java](/Java/Q622DesignCircularQueue.java) | Medium | `Array` `Linked List` `Design` `Queue` |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [SQL](/SQL/Q627SwapSalary.sql) | Easy | `Database` | 
-| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](/Java/Q637AverageOfLevels.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree` |
+| 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java](/Java/Q637AverageOfLevels.java) | Easy | `Tree` `DFS` `BFS` `Binary Tree` |
 | 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Java](/Java/Q641DesignCircularDeque.java) | Medium | `Array` `Linked List` `Design` `Queue` |
+| 653 | [Two Sum IV](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Java](/Java/Q653TwoSumIV.java) | Easy | `Hash Table` `Two Pointer` `DFS` `BFS` `Tree` `Binary` `Binary Search Tree` |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](/Java/Q700SearchBinaryTree.java) | Easy | `Tree` `Binary Search Tree` `Binary Tree` |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](/Java/Q704BinarySearch.java) | Easy | `Array` `Binary Search` |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Java](/Java/Q705DesignHashset.java) | Easy | `Array` `Hash Table` `Linked List` `Hash Function` `Design` |
