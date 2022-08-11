@@ -25,14 +25,15 @@ Some of my solutions and attempts for leetcode problems
 | 89 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](/Java/Q86PartitionList.java) | Medium | `Linked List` `Two Pointers` | 
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](/Java/Q94BinaryTreeInorderTraversal.java) | Easy | `Stack` `Tree` `DFS` `BFS` |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](/Java/Q98ValidateBinarySearchTree.java) | Medium | `Tree` `DFS` `BFS` `Binary Tree` |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](/Java/Q100SameTree.java) | Easy | `Tree` `DFS` `BFS` `Binary Tree` |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](/Java/Q104TreeMaximumDepth.java) | Easy | `Tree` `DFS` `BFS` |
 | 108 | [Convert Sorted Array to Binary Search Tree.java](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](/Java/Q108ConvertArrayToTree.java) | Easy | `Array` `Tree` `Divide and Conquer` `Binary Tree` `Binary Search Tree` |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](/Java/Q125ValidPalindrome.java) | Medium | `Two Pointers` `String` |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/) | [Java](/Java/Q128LongestConsecutiveSequence.java) | Medium | `Array` `Hash Table` `Union Find` |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](/Java/Q136SingleNumber.java), [Python](/Python/Q136SingleNumber.py) | Easy | `Array` `Bit Manipulation` | 
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | [Java](/Java/Q141LinkedListCycle.java), [Python](Python/Q141LinkedListCycle.py) | Easy | `Linked List` `Hash Table` `Two Pointer` |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](/Java/Q144BinaryTreePreorderTraversal.java) | Easy | `Stack` `Tree` `Depth-First Search` `Binary Tree` |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](/Java/Q145BinaryTreePostTraversal.java) | Easy | `Stack` `Tree` `Depth-First Search` `Binary Tree` |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](/Java/Q144BinaryTreePreorderTraversal.java), [Python](/Python/Q144BinaryTreePreorderTraversal.py) | Easy | `Stack` `Tree` `Depth-First Search` `Binary Tree` |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](/Java/Q145BinaryTreePostTraversal.java), [Python](Python/Q145BinaryTreePostorderTraversal.py) | Easy | `Stack` `Tree` `Depth-First Search` `Binary Tree` |
 | 160 | [Intersection of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](/Java/Q160IntersectionLinkedList.java), [Python](Python/Q160IntersectionOfTwoLinkedList.py) | Easy | `Linked List` `Hash Table` `Two Pointer` |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](/Java/Q167TwoSumII.java) | Medium | `Array` `Two Pointers` `Binary Search` |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](/SQL/Q181EarnMoreThanManagers.sql) | Easy | `Database` |
@@ -46,9 +47,9 @@ Some of my solutions and attempts for leetcode problems
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](/Java/Q217ContainsDuplicate.java), [Python](/Python/Q217ContainsDuplicate.py) | Easy | `Array` `Hash Table` `Sorting` |
 | 225 |[Implement using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C](/C/Q225ImplementStackUsingQueues.c), [Java](/Java/Q225MyStack.java), [Javascript](Javascript/Q225MyStack.js), [Python](/Python/Q225ImplmentStacksWithQueue.py) |Easy|`Stack` `Queue` `Design`|
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](/Java/Q226InvertBinaryTree.java), [Python](Python/Q226InvertBinaryTree.py) | Easy | `Tree` `DFS` `BFS` `Binary Tree` |
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](/Java/Q232ImplementQueueUsingStack.java) | Easy | `Stack` `Queue` `Design` |
-| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java](/Java/Q234PalindromeLinkedList.java) | Easy | `Linked List` |
-| 235 | [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](/Java/Q235LowestCommonAncestor.java) | Easy | `Tree` `DFS` `BFS` `Binary Tree` |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](/Java/Q232ImplementQueueUsingStack.java), [Python](/Python/Q232ImplementQueueUsingStacks.py) | Easy | `Stack` `Queue` `Design` |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java](/Java/Q234PalindromeLinkedList.java), [Python](Python/Q234PalindromeLinkedList.py) | Easy | `Linked List` |
+| 235 | [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](/Java/Q235LowestCommonAncestor.java), [Python](/Python/Q235LowestCommonAncestor.py) | Easy | `Tree` `DFS` `BFS` `Binary Tree` |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](/Java/Q237DeleteNode.java) |Easy | `Linked List` |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](Java/Q238ProductExceptSelf.java/) | Medium | `Array` `Prefix Sum` | 
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](/Java/Q242ValidAnagram.java) | Easy | `Hash Table` `String` `Sorting` | 
@@ -58,10 +59,12 @@ Some of my solutions and attempts for leetcode problems
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Java](/Java/Q377CombinationSumIV.java) | Medium | `Array` `Dynammic Programming` |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Java](/Java/Q382LinkedListRandomNumber.java) | Medium | `Linked List` `Math` `Reservoir Sampling` `Randomized` |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](/Java/Q387FirstUniqueCharacter.java) | Easy | `Hash Table` `String` `Queue` `Counting` |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](/Java/Q404SumOfLeftLeaves.java) | Easy | `Tree` DFS` `BFS` `Binary Tree` |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Java](/Java/Q430FlattenList.java) | Medium | `Linked List` `Doubly-Linked List` |
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](/Java/Q445AddTwoNumbersII.java) | Medium | `Linked List` `Stack` `Math` |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [SQL](/SQL/Q511GamePlayAnalysisI.sql) | Easy | `Database` |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](Java/Q530MinimumAbsoluteDifference.java) | Easy | `Tree` `DFS` `BFS` `Binary Search Tree` `Binary Tree` |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](/Java/Q543DiameterofBinaryTree.java) | Easy | `Tree` `DFS` `Binary Tree` |
 | 559 | [N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Java](/Java/Q559N-aryTree.java) | Easy | `Tree` `DFS` `BFS` |
 | 563 | [Binary Tree Tile](https://leetcode.com/problems/binary-tree-tilt/) | [Java](Java/Q563BinaryTreeTilt.java) | Easy | `Tree` `DFS` `Binary Tree` | 
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](/SQL/Q584FindCustomerReferee.sql) | Easy | `Database` | 
@@ -83,7 +86,8 @@ Some of my solutions and attempts for leetcode problems
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](/Java/Q704BinarySearch.java) | Easy | `Array` `Binary Search` |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [Java](/Java/Q705DesignHashset.java) | Easy | `Array` `Hash Table` `Linked List` `Hash Function` `Design` |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [Java](/Java/Q706DesignHashMap.java) | Easy | `Array` `Hash Table` `Linked List` `Design` `Hash Function` |
-| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [Java](/Java/Q725SplitLinkedList.java) | Medium | `Linked List`
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [Java](/Java/Q725SplitLinkedList.java) | Medium | `Linked List` |
+| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Java](/Java/Q783MinimumDistanceBetweenNodes.java) | Easy | `Tree` `BFS` `DFS` `Binary Search Tree` `Binary Tree` |
 | 809 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [Java](/Java/Q809FindAndReplacePattern.java) | Medium | `Array` `Hash Table` `String` |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [Java](/Java/Q817LinkedListComponents.java) | Medium | `Hash Table` `Linked List` |
 | 872 | [Leaf-SimilarTrees](https://leetcode.com/problems/leaf-similar-trees/) | [Java](/Java/Q872LeafSimilarTrees.java) | Easy | `Tree` `Binary Tree` `Depth-First Search` |
