@@ -11,11 +11,19 @@ class Solution {
             head = head.next;
         }
         
-        ArrayList<Integer> temp = new ArrayList<>(arrList);
-        Collections.reverse(temp);
-        return temp.equals(arrList);
+        int start = 0;
+        int end = arrList.size()-1;
+        while(start < end){
+            if(arrList.get(start) != arrList.get(end)){
+                return false;
+            }
+            start++;
+            end--;
+        }
+        
+        return true;
     }
 }
 
-//Runtime: 18 ms, faster than 34.48% of Java online submissions for Palindrome Linked List.
-//Memory Usage: 61.4 MB, less than 85.95% of Java online submissions for Palindrome Linked List.
+//Runtime: 7 ms, faster than 66.29% of Java online submissions for Palindrome Linked List.
+//Memory Usage: 54.9 MB, less than 94.08% of Java online submissions for Palindrome Linked List.
