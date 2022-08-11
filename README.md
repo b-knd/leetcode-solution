@@ -23,13 +23,14 @@ Some of my solutions and attempts for leetcode problems
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/) | [Java](/Java/Q74Search2DMatrix.java) | Medium |  `Array` `Binary Search` `Matrix` | 
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](/Java/RemoveDuplicates.java), [Python](Python/Q83RemoveDuplicatesFromSortedList.py) | Easy | `Linked List` |
 | 89 | [Partition List](https://leetcode.com/problems/partition-list/) | [Java](/Java/Q86PartitionList.java) | Medium | `Linked List` `Two Pointers` | 
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](/Java/Q94BinaryTreeInorderTraversal.java) | Easy | `Stack` `Tree` `Depth-First Search` `Breadth-First Search` |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](/Java/Q104TreeMaximumDepth.java) | Easy | `Tree` `Depth-First Search` `Breadth-First Search` |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](/Java/Q94BinaryTreeInorderTraversal.java) | Easy | `Stack` `Tree` `DFS` `BFS` |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](/Java/Q98ValidateBinarySearchTree.java) | Medium | `Tree` `DFS` `BFS` `Binary Tree` |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](/Java/Q104TreeMaximumDepth.java) | Easy | `Tree` `DFS` `BFS` |
 | 108 | [Convert Sorted Array to Binary Search Tree.java](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](/Java/Q108ConvertArrayToTree.java) | Easy | `Array` `Tree` `Divide and Conquer` `Binary Tree` `Binary Search Tree` |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](/Java/Q125ValidPalindrome.java) | Medium | `Two Pointers` `String` |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/) | [Java](/Java/Q128LongestConsecutiveSequence.java) | Medium | `Array` `Hash Table` `Union Find` |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](/Java/Q136SingleNumber.java), [Python](/Python/Q136SingleNumber.py) | Easy | `Array` `Bit Manipulation` | 
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | [Java](/Java/Q141LinkedListCycle.java) | Easy | `Linked List` `Hash Table` `Two Pointer` |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | [Java](/Java/Q141LinkedListCycle.java), [Python](Python/Q141LinkedListCycle.py) | Easy | `Linked List` `Hash Table` `Two Pointer` |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](/Java/Q144BinaryTreePreorderTraversal.java) | Easy | `Stack` `Tree` `Depth-First Search` `Binary Tree` |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](/Java/Q145BinaryTreePostTraversal.java) | Easy | `Stack` `Tree` `Depth-First Search` `Binary Tree` |
 | 160 | [Intersection of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](/Java/Q160IntersectionLinkedList.java), [Python](Python/Q160IntersectionOfTwoLinkedList.py) | Easy | `Linked List` `Hash Table` `Two Pointer` |
